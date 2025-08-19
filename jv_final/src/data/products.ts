@@ -77,7 +77,7 @@ export const products: Product[] = [
     name: "0 06Mm 0 08 Moly High Tensile Strength 0 1 0 12 0 14 0 15",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIee_6UHvF1VbyTNZVG5HNt8u1ftNrQc1oVnaN13rcn1g42Y9m3QfyRA-tq6E&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrHjnu733Ug5sMzX-FKmdxHoBxiGDMuQqyySNkGp_D53ea6HDKyPdkzmiosw&s",
     category: "Wire Edm Consumables",
     featured: true
   },
@@ -419,7 +419,7 @@ export const products: Product[] = [
     name: "Dj80300 Guide Wear Upper Plate Guide X056C507G51 X056C846G51",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_LKo71E2gnsraki7W8ch80QykMKGN_fq42jWHL_GG1H42GKNJYk_858VJUw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJtNDs3YogSCQK9F4KVLwZZW0K9o2lux1KcRtS5ihBGBJ7wEe75oel2oWDU0&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -581,7 +581,7 @@ export const products: Product[] = [
     name: "Db68700 S921N211P10 Pin Spare 10Mm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXsIeLYfQ-OSVMee-jI3GqRXFTbGCPj5eQNt0YBPnPmkatGMy4wQSELXWg18k&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNFCLvQF5CZYKz0-Sj5XuvJe8iXcIMoBK5OTzLZGCkhVrkqNBXFGCDO4x2A&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -635,7 +635,7 @@ export const products: Product[] = [
     name: "133X20Mm Dhb3200 Dev4700 Roller Shaft X251C159H01 Mv",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxwaRe28WozqiOj93zS0bZ-twKa4LUoSXx57Q72cq2ntnpi79p7Tj-WCmlOA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomvq68TFBQOteLL4pnA1xnYbY1YaX8bO0dLedzZh_90aEOQsM9AkUGjR8tfI&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -653,7 +653,7 @@ export const products: Product[] = [
     name: "M303 X053C228G52 Isolator Ceramic Plate 120 105 11Mm Insulation Edm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5LCSwqzyW5pRGQnTOfSoYS4F4Awj-qrsFKf2v_o2mGNyVRYoyWAhjbiNIdg&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROxOY2kdDKZbwPRlA_v7XtTy1q7_CgoQPAMLVuwdWvuumDr7UGIUWc6ouiIlY&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -698,7 +698,7 @@ export const products: Product[] = [
     name: "Del9000 Isolator Ceramic Plate Machine X089D225H01 Easy Assembly",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykRvzl605vUyKymwaEyj1XYxVMilHVahlzFKoNCDIQekO8il4ka-B-38BG3I&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqSDq2D1jq9bJwj8UVlocmO708dDdbhkCZj65-cyUglIyorPHOxN2ChmMMCA&s",
     category: "Mitsubishi Edmparts",
     featured: true
   },
@@ -725,7 +725,7 @@ export const products: Product[] = [
     name: "Dbk3500 Pinch Roller Shaft X262D363H01 Ba24 26 128Mml Mv Shaft",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVAJaXSpR3zDtwuv4MiDChvmmNrmyGOWnVHj_-w5dzUpyHkXRCUTDieyNNUCE&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-ex49ZNKuWmzNbEiuGZVRa5Y3LeB2TzwhiWPIKxku2YqqZ3OQMp2Y-PQKw&s",
     category: "Mitsubishi Edmparts",
     featured: true
   },
@@ -788,7 +788,7 @@ export const products: Product[] = [
     name: "Mv Packing X055C971G51 Deb6700 Da94200 X058D380H01 Fa10",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9nrhoFHLKeRt2smecW-KM5xhDbCQ6QZPjVK81WEu70B8eABKktHduP4rCSQ&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojfyIj3Nc2lyCwwUhC-jIBqNo3SsZ8Yjjj0isgc7iG05omlQ1faOatQofElY&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -833,7 +833,7 @@ export const products: Product[] = [
     name: "M133 D631000 Dp80800 Lower Wire Guide X052B243G61 X052B387G54 Dr05800",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCleXFGtaXIB9XjqQQSDI3J_cASxBjfLCOBL3FLh7EqjTIpVLvSFy_ZCF-Cg&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL7OBjQmRjDE5K0gdmzEEhldipGE6iO-qag2GPDFLwNtrHFPp0MNTExGAJtA&s",
     category: "Mitsubishi Edmparts",
     featured: true
   },
@@ -869,7 +869,7 @@ export const products: Product[] = [
     name: "Dcc7800 Die Housing X255C252H01 Block Guide Holder X253C935H01 Dcc78A X255C252H02",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTWQ4F3Xlt2bp8m6R7tg52ZUs_tnSWPdyOr1GljejkZzkzXtb7CBfAOhYEjEE&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2lHUhYX-GbeSb02B8Ukx1VT21h2IKHzn0TFY54VtynOccOK0KoyLhTXQw-I&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -914,7 +914,7 @@ export const products: Product[] = [
     name: "Dch9400 X055C630G54 Lower Die Holder Ba24 Ba8 X262D527H01",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA0unq08USS778Gh3RLCLjNO2Sc62d3aOTN1CgOFykNuDeTD0LuLvpH1ZDLO8&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvbHe65EHG9jaymcl-_B41Y44waXB8IYG2kUfbvrIRwD16-HUrNsqAnU_j3g&s",
     category: "Mitsubishi Edmparts",
     featured: true
   },
@@ -941,7 +941,7 @@ export const products: Product[] = [
     name: "X253C936H02 X253C936H01Ddn5400 Dbp6500 Guide Holder Nozzle Holder Ba",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxzfYtRZvGENw__5lBGSOPG9_yM7sdfFTqVX9X-mfN2p3ABoG5A8E2GTYJPsI&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnceCjhnUR71gQCwNwQKQwJt2HzZn2dep18GKzT0pdZSyGRDqLPEFX7h9Agw&s",
     category: "Mitsubishi Edmparts",
     featured: true
   },
@@ -968,7 +968,7 @@ export const products: Product[] = [
     name: "X186C793H01 X056C836H02 Dq44300Mitsubishi Machine M215 Nozzle Upper",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeXK4nXwjUaZH-EUwpjyCmmv4rJKvcrOG2yDi0p3JJ6TJoxuKkk3mdyS8pnEA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZyiNZRqxMg64ycLkt8w9JAAZCQFZ5BMASeJGnLhz6Cko9zb0ttN6SAEcbmbE&s",
     category: "Mitsubishi Edmparts",
     featured: true
   },
@@ -1013,7 +1013,7 @@ export const products: Product[] = [
     name: "X052B176G53 X052B241G53 Diamond Guide X052B176G51 X052B176G52 X053B176G51",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0v_FK_HIWz1Jk7g5W3KO4GHE6N3TRaSCXmxWtDrwWzEfuLCp9U6i2xJi2ZE&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAgHVVd7HtTftuvvnTOaTKQCGKO4csi_FigPwQspiRyYwRs8-GWM2O8TeuRQ&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -1022,7 +1022,7 @@ export const products: Product[] = [
     name: "Pulley With Fa Fb Mv X059D286H01 Dk91700 90X19 22 8X31 5 Mm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0gEpTPqAwZ8ldQGA1CLYJdAv1L8j_vdSxvXUmxwSIaYbpeDdJVsgH1H5gQ&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwkciQ54ZPUVd5Tq3UMk1zcM7GVnH3-FxGbCVlOs2bMi9RIiGOMDXWdeZ2fI&s",
     category: "Mitsubishi Edmparts",
     featured: true
   },
@@ -1094,7 +1094,7 @@ export const products: Product[] = [
     name: "Fa Fa X056C082H01 Ceramic Guide",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9CNd2P-n69uiNSUCMtM5abG8Mzv-uQPxCw8z3Rk2Chm6ObO3aesoZGc4-Sg&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxhg6eW6k-elfWsdNsJYNMpOkjhdI3pwUK9EspJv4IqRtXiGMksulY1oiPzA&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -1157,7 +1157,7 @@ export const products: Product[] = [
     name: "Mv Capstan Roller Ceramic 22 12 22 Feed Section",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkAi8HL6k_g4gtV79Ym_u-nCrQ9h9IFee5WYsnBXU3fsuitM-_u3MTxAgpRbY&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS07jo_9JAXgueOgWvCttEVunmCxpsFEJKOu2E6NW2iEW0DVjPPj5OsJZ9Qz90&s",
     category: "Mitsubishi Edmparts",
     featured: true
   },
@@ -1184,7 +1184,7 @@ export const products: Product[] = [
     name: "Dey4700 Dc13500 Advanced Pendant Mv Wire Hand",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF3NsKbhh1i9b88Dve07jumcybd29p6ESiOY-1g6ns0jpYLELsXxn2ZyU_MAA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ7vdTvZkI_sWklT7txPQE_mLFZSrUEHSj4TEjLISFrBFZ11JqSbz7uKhTgA&s",
     category: "Mitsubishi Edmparts",
     featured: true
   },
@@ -1193,7 +1193,7 @@ export const products: Product[] = [
     name: "X058D186G51 X058D070G51 Db78900 Db789A Cutter Unit 62 62 36H M520",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjjVGCuUHXw9VhEQxtzSbj2Rwn8OUFekpxZb7Z2EOwsk91yjR3P53cseaNvY&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7XhH_W-0Q7o7OU3DxwMpMgUDBkXrXeiY9YqWiuZUhR9SvqBSOd9IXcN0RA&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -1283,7 +1283,7 @@ export const products: Product[] = [
     name: "X256C475H01 X267C475H01 Upper Die Guide Holder Nozzle",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcTv0fuYbbHcBJCWIt3PQ2dlsKa_moqOOT4jhUlGiYlQX_2guZ2nCLVoEw2QA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTbm_IcQWppI1C_W2kFCMncdDlsXaQ7hZs2LNUq8EH3EMmm2GDt6NaCrn&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -1292,7 +1292,7 @@ export const products: Product[] = [
     name: "Dem3700 X197B296H02 Upper Die Wire Guide Holder Mv Series 22 5 25 45",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXHq8BzDxxtXJnwTav5IXkRDYIYI5koX1xDeGHMAzl0wSe6bDw3_cpZQ6Dw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJW098sYxXMbeflSGGoCbnXsm_Q199zQorihLC8Z0L9MI_lHM5My2cVbdLGg&s",
     category: "Mitsubishi Edmparts",
     featured: true
   },
@@ -1310,7 +1310,7 @@ export const products: Product[] = [
     name: "X265D557H01 Upper Nozzle Holder For Mv Machine 64 14 5Mm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKzX36mlrCAgUQ0h-e05H6pUVONT2wvCbJeezukGrO1_G9GHRP_R0iImdMLw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOspDTelD3dd2ehq5o4tH6iaxXIcb-q8Ln1jubLyPLtgGCf4Fuv7ZObMrlZQ&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -1436,7 +1436,7 @@ export const products: Product[] = [
     name: "Da83500 X054D257F51 X058D340G51 Pinch Ceramic Roller X054D078G51",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2GDpGr5xVosmXiA9jLwDQU8DDu6yO8JQ9iC6fJjyeXrCoKywYYQ_oEjYyLOU&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahouGt0tmE15Z2E_XLVVRyXvva0Koj8xryh_Uj4B69nNE_pZErc1krhiJWA&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -1526,7 +1526,7 @@ export const products: Product[] = [
     name: "X187B532H01 Dk183A Upper Die Guide Base For Ra Die Guide Block M603",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLRQ9fDw3GDReP6GQCmBRDPJM88q9t_MDqwTlsHnbg5LBdyoJh_G4NwoytgA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROEZrhm4-FzrXAkGC5HEFV2a76CDQ9Tpq6SK0p52TuKIBMmQ66nm_Xeryu_wI&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -1643,7 +1643,7 @@ export const products: Product[] = [
     name: "X264D949H01 Me489 V Pulley Reel Roller Od90X19X25 Mm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0hnsrcfjKIVxCb0ULmOuOiB-WaV6F2CDCDqz56qXtvHM52-g3J6Wgyhoig&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNSZgPx5p05F9ZjSI_NU8N2gtOw_Dgrc_JvC1cMs_XZI-5fh88dHbYMR4ew&s",
     category: "Mitsubishi Edmparts",
     featured: true
   },
@@ -1679,7 +1679,7 @@ export const products: Product[] = [
     name: "X058D380H05 Da99900 Packing Seal Plate Fx20 Fa20 Fx30 Fa30",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Gpg60itSW2ppWtkMn9nOg9pdysDdELzcmr-nNnWuyEkZWjpVpMkugS23PA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6izH5xMnSsuAtDbj_XuDytl58P6hGLYzKrfaRHDIVSISWY-1_ZPJ9nxVvcVs&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -1706,7 +1706,7 @@ export const products: Product[] = [
     name: "X260D821N51 X256C476N51 Mv Wire Guide Opener For Edm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dPk-7kbIFaiUza3nBF3Ht3JhnHd65v7WIlYA0c4fuua5IlHYohYkBeuVNQ&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4lrO2ULNJo9lukUuLo36oq9Tw7W2_AXBx4dDfNvNt5AV6Dd4x2hzZBPp69w&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -1778,7 +1778,7 @@ export const products: Product[] = [
     name: "X052B622G52 Upper Pre Diamond Guide",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRE2BwaA8QTB6doj2xJ_7sNd7SMjBfTy3gp85eON_lMkWn89FeabRjPdc2tGs&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEnRmIrAUWv8YHf7_Cud8-Lw1DO8TO2dfQq-92SjbdiXiseFxpjiIyZu5oA&s",
     category: "Mitsubishi Edmparts",
     featured: true
   },
@@ -1841,7 +1841,7 @@ export const products: Product[] = [
     name: "M471 X208D405H01 Spare Upper Brass Power Feed Holder",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkRqu0Ar-SCXfT_shLrexxlLKR3aSuQoThCb4JJQd6b3sYLPL_NoBNIrSl6g&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg5JbLrC7on3so-CZCiiFBhP55CN_xJ_xIWrEDQMJoDaNHabE9nx2g6okOFg&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -1904,7 +1904,7 @@ export const products: Product[] = [
     name: "Dl34200 X055C078H02 Aspirator Ceramic Cutter For X056C998H01",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSC-EjRE6BApyT8HHTCOEHP7IAL_Z1YT6HrPVQUFIOROLRRXeJMgrUUVlPbA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQBqPfYIX8wGxZ8oP_6QkSPESBFl3dgPhls-wv5248lgFez0-LsNLn3FHn8g&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -1976,7 +1976,7 @@ export const products: Product[] = [
     name: "M135 Die Guide 0 4Mm X054D896G51 Consumables Upper",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTknWrD9GbchGm-jByJYvyfybm8xQrU_HMUVEOXj8d5_1kEp4_R-KIaCGXt3A&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOpFCCrSx6MqO8LyKnw9JYKKzcQX0dT9Zu7FdPl5jdbxBn3vmcsU40P97RYQ&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -2057,7 +2057,7 @@ export const products: Product[] = [
     name: "Jet Nozzle Spare X056C852G51 Dk06400",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT_jfJWYMMUeEgUwvvui8gP_XD8H2Oeg4zZGQiXlTtsnpNf5UJU2QYRyHNw3Q&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQBf4ZJU4x9dFZQCiKiL1Kw0pJq0n7Os3vmxEc2j631HM2fH74kpju44Mfuk&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -2138,7 +2138,7 @@ export const products: Product[] = [
     name: "M147 Lower Guide 0 4Mm X053C884G52 X053C884G63 X055C478G51",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfD8EgUayYXusEe0uvmQeoMrrXi3KUlfwKvKaF9eA90VR6OCfby9kNjLWEeA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVDO-ge3ivKeSan0-DmqYlGIUXXqN3KWtBxPbIEcHzezlk0z38lkS_HMruAw&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -2156,7 +2156,7 @@ export const products: Product[] = [
     name: "S859N319P33 M457 Bearing For M456 Roller 22 19X7X6Mm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7xIqKne8opOrHJGv1tt4t2g8Yu9Dww9yJOf1SJT32yeBe5Mgyy4dqnp7tsA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSspSzlvL73Z8oPcB8YoE7WZfWERuWoQb-AVZiwho4U9vphRyi2xbp9o1qErg&s",
     category: "Mitsubishi Edmparts",
     featured: true
   },
@@ -2201,7 +2201,7 @@ export const products: Product[] = [
     name: "M009T Golden Color Titanize Tungsten Carbide X056C432H01",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrggcNbq3dbW2bcptvZGBAeW-t8ngTYvjP342hV6I8He6EXuD71Sb3PAlrW0w&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLvvK6vSAUlRFq9_ceYU9kJsz1iM-N5UDv0L_wedqrBaH1CNFd1KYzmIqDiFk&s",
     category: "Mitsubishi Edmparts",
     featured: false
   },
@@ -2219,7 +2219,7 @@ export const products: Product[] = [
     name: "Hw Series Lower Chmer Ch302 Ceramic Plate With Fast Delivery Ch301",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrqA5I43iC5fZB64iM1XyQKMxDx69dYzdyZdrfmY4_GyWE9r-UWn6JYymmw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGE6rMTF-Bd8n2zZHF0V3dRvHclkt6y5rZj9e6x7HC6JjFbMdcopaa99KH1Po&s",
     category: "Edm Spareparts",
     featured: false
   },
@@ -2408,7 +2408,7 @@ export const products: Product[] = [
     name: "3081423 S103 Diamond Guide 87 3Easy Yellow Blue Green Red Color J03638A J03649A",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUfGpgeN7v3GBqTNeyWK7HzXEtkwI4u6gf-TfMfrL0UHKHkeJoI5DYSUpTIgU&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_4zR9I2-HZz1b494Mf6431qUeoDrZ616RpmMKq-OYzhZ1eWlS3yzELO6_Rn8&s",
     category: "Edm Spareparts",
     featured: false
   },
@@ -2498,7 +2498,7 @@ export const products: Product[] = [
     name: "Js 6040Sd 600 400Mm Jiasheng Precision Drilling Machine Manual 0 15 0Mm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZMsmQQMdVm4MBICsUOVC243MX_n_PT5qJs80BxMA-uv-mBn5mGROvZH8O7U&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSACHBmBIFwC2tccKno2mLcqrr9dkaqR-YQJrHOEHjHvJbDrDZ67pkaUWLr&s",
     category: "Edm Spareparts",
     featured: false
   },
@@ -2543,7 +2543,7 @@ export const products: Product[] = [
     name: "Js 1080Cnc Jiasheng Precision Drilling Machine Large Travel 1000 800Mm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHirRgl9H80_i0v4fQO9pREfK1ty4IH_tZZhs1Y8x9PzRkW8Jr1zydy3If1JU&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRtxo4eEhlRgSpjYP-MT5mRRAs1gHqOEnAC80qq1y866PqHzi2_KzhVf2CpA&s",
     category: "Edm Spareparts",
     featured: false
   },
@@ -2633,7 +2633,7 @@ export const products: Product[] = [
     name: "Js Wk4030Cnc Jiasheng Micropore Hole 05 5Mm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2pTvo36motmhGPwk-ogzKZ53x5Wt4My4Uk3K5SllWTmp9qHBw4HlfzM82g&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDnJGObvIS0fsrFRdKTsfrOGipsKoRXgikeZfw82fenHhSq8_9ylILT5cdwo&s",
     category: "Edm Drilling Machine",
     featured: false
   },
@@ -3173,7 +3173,7 @@ export const products: Product[] = [
     name: "8 7X7X4Mm Makino Edm Parts V Guide 20Ec090A702 V Type Sapphire Wire Guide",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbVuuyKotuMnECq3d8WpFjCw7srIzUWHU2SwNhnt7xEUVLk90lV7uJ0t7E9Nc&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgjf3xT_EQFnww6Va5cfo6dJkyqyskhVPu2wZ8srDndg7Gy9Q-wZK44KbwEu0&s",
     category: "Makino Edm Parts",
     featured: false
   },
@@ -3290,7 +3290,7 @@ export const products: Product[] = [
     name: "15Ec40E401 Makino Cover Arm Bellows U32B U32K Edm Spare Parts Z296C0200054",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCvWlNJkQnNlBSwbNYqc2-w3mXLh9TiK07hqS7JZPTdhFLl46YhBCn5Elqv2I&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_4F6YdoXG3tUDulT_6BDKJORM0jb3tUq6JYhK7fgQ1FHu_DKXj02rZE87-w&s",
     category: "Makino Edm Parts",
     featured: true
   },
@@ -3443,7 +3443,7 @@ export const products: Product[] = [
     name: "Z248W0200400 Wire Edm Consumables Z248W0201500 Lower Tungsten Power Feed Contact",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYbkyokZm7L4mlT3iD7pfDDJMjUaedM7miTFQCadldGCX2onEKetL-xbexZT4&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LInegtT7WhMEm2ojGWiuLduUCKnDmxSLLM1G04Ft7tskdcyFwQavfgd9yDI&s",
     category: "Makino Edm Parts",
     featured: false
   },
@@ -3839,7 +3839,7 @@ export const products: Product[] = [
     name: "27V 5A Edm Stepper Motor 45Bf003 For Jinma Baoma",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlA3jd7ez4P6vsmgYqcOriKnp8w7FfHHKVEbhibgFkIStmIr7FJeTgv2naBM4&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfALIVg5Qpu_56-UjnFSZVlskFf6e7suBXkYIPboCDQWe7vfsX3CPQmsWT-kM&s",
     category: "Edm Machine Parts",
     featured: false
   },
@@ -3857,7 +3857,7 @@ export const products: Product[] = [
     name: "Z140L 6X3 100Mml Extended Edm Drill Guides 0 8Mm 0 9Mm Ceramic Pipe Guide",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrska8Sk0AqNPrf_9kwSUyOM9rLudVJc8KG5tfES8bT_BR6ytuAA4R1Lh8Ag&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRLz23_5eSMd-T4EpcUrPiFVEVH6ZOj7mhzbaLmG9K0a8BMJz20KcghoY638&s",
     category: "Edm Drill Guides Check",
     featured: true
   },
@@ -3920,7 +3920,7 @@ export const products: Product[] = [
     name: "E060 Drill Chuck Keyless 0 0 0Mm Edm Drill Guides Parts For Electrode Tube",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiHsOjJXkB0wri5Z-0nxn1gMzwx8cAO7fInzuV7Zu3igMjbasRKFAD36UgPPI&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQLJvxOp2LCmFe0OlXAMHT5icXiAZFP1Ry1_2Za5Cl30sMUclA12nzfsKIYA&s",
     category: "Edm Drill Guides Check",
     featured: false
   },
@@ -4136,7 +4136,7 @@ export const products: Product[] = [
     name: "E080 Precision Edm Drilling Machine Parts Drill Chuck Pistol Type Drill Castek",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUCxmNiRxb_-Lgrjb2LzLa93b8ktex3_YaajN3xG4fZCvjTg3B8Dl1mm4MEQ&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE125sP8Yc_XgqK7BA9bYONgtqQdqYbaVUA-1QY2024ms15fZKiL6K2ZyaLA&s",
     category: "Edm Drill Guides Check",
     featured: false
   },
@@ -4541,7 +4541,7 @@ export const products: Product[] = [
     name: "A290 8111 X527 A290 8115 Y546 Upper Isolator Plate For Fanuc F320 50Lx70Wx23Tmm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFflI4MEO67fkb5_fFWnVg7DpUitDGce_HydjutbjCkTX1S3PBjsLtD1KEAI&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTXwmjc_FlMwhJTlVl9eD9tpSXLk8DTP9Vwxh3nPI9W8MbqdXVFxVDVAMW17M&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -4568,7 +4568,7 @@ export const products: Product[] = [
     name: "Ss Material Dwc Fanuc Wire Edm Wear Parts A290 8119 X384 Bearing Plate",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqVK1jACDkObUBJ7_JnIROcfXiOnf2X42ZArHTQGR7rlgACUMLapd4Vftf9-s&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbaCAx-6X47M-4uLY0OBK9FnWBZxq-KQWdEogLGGL_1tvCbRlqiSdYE0-LMWI&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -4586,7 +4586,7 @@ export const products: Product[] = [
     name: "A290 8110 Y780 Cover For Fanuc Wire Edm Spare Parts Fanuc Plate",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSn0CGOVlBh8wwX7luduO2RxMlKJtGPlVLPAvCkK74nsy6IG5pN95mq1Qd-tw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprOQCaBJYu_C45JyTEvYh-pQATXP3SJVv_f8YpI4RhqhLdLiru9ZD0Qg8aw&s",
     category: "Fanuc Edm Parts",
     featured: true
   },
@@ -4604,7 +4604,7 @@ export const products: Product[] = [
     name: "A290 8037 X961 Conveyer Belt For Fanuc Wire Edm Spare Parts 1422 X 13 X 7Mm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKLA9Ee9pvqRKT-Mvtam_88fHduj-S1OM2EscXy4MDoVLgvE5zUvUvLToaWw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnLsU68jOQcXpYWbL-PK_mPAjCdC1_f0XNc0LN_8mBb8_qyWqze_rRQ94nkA&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -4874,7 +4874,7 @@ export const products: Product[] = [
     name: "A290 8101 X509 Upper Isolator Plate Fanuc Edm Parts Series 34 Guide Base",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQueKLMltiCmQ37LQahQt1S1fyNYrY5LKHzZidwRTEv4mRT9PuiWF7ntSVesw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbR7Px141TA9Br-5ML-lkajqzZqAJbPJJJ-LRjOrY6Tyn6MaL7ypMvvtS_KQ&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -4892,7 +4892,7 @@ export const products: Product[] = [
     name: "A290 8102 X727 F400 Upper Sub Die Seat Fanuc Ia Ib Wire Edm Wear Parts",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsoBLrbvcBspwX6MjcZ0z2r3ix-kf01aRvM-OswG4aRw6HkDB9TibkRVGZA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwhAZZiR1adAkNdYtKyc0Ub11q3d-Ok5Y5PVdS9Ymb9M8PTVCehdH2HjpLOa0&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -4946,7 +4946,7 @@ export const products: Product[] = [
     name: "A290 8102 X620 5Mm Fanuc Edm Parts Sub Die Guides A290 8104 X620 3Mm F126",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-6DRcZJyLQtAYWJV-Wu_Q7yZMyMEZpUGH_DHH8fu2dKwmGnOm8XRq6BDVxts&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTvqWH4Zpwa63GsBnVk5T1pQYJCkFlrQO0J5b9aj9cpN4odFmFc3GllwNzR8w&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -5090,7 +5090,7 @@ export const products: Product[] = [
     name: "A98L 0001 0943 Rubber Door Seal 2Mtrs For Fanuc Edm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp31Qcja1zVlZJzT5ZhuAkc6H13qwu1I45Qw5jICVEr2X49D9wPQX6E9XL5Q&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzZ0GROcdeQGSYVe7drly0EBeRLXs9GThaDB9tnkGUAAsF3TZamrTZHFbWsg&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -5135,7 +5135,7 @@ export const products: Product[] = [
     name: "A290 8119 X767 9 4D 22 2Lmm Stainless Steel Shaft Fanuc Wire Edm Wear Parts",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezwEoPXSjmxqxYQJTezSbTK05qYFfeLZb5inkl-QB9ouN9etsbTELb5o14-U&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUquhWSJzB9j7CeZjtNfw-RE6opBJAxT2Qs4_zldHRKJJZz1-QXD3jitJtFw&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -5171,7 +5171,7 @@ export const products: Product[] = [
     name: "A290 8119 X626 Detect Roller Ceramic For Fanuc Edm 34X14X8Mm Edm Spare Parts",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkeBaZbJqWKX4KYVUa61Nh7D_93qQBJJPrIqV5mty-lKg95HHXJlD9CrVeQ&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFx0iIwyKI6bKzCaCRZHhroReFcY_niY7bTeqSpY22JlyR8iItq0VlzWsiVNc&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -5189,7 +5189,7 @@ export const products: Product[] = [
     name: "A660 8010 T058 A660 8010 T057 A660 8011 T711 Lwg Ground Cable For Fanuc Edm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr2Ua0yGJQZeJHi47T3Rr4fUj6FZ1lxHpLMu3R7GmV6vTmA90GYT1CJ67cAg&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ1p8HlmVjsHe9jJL-7S4f7o2xQyvl5eenGGyUesvpKghEctObaDeEpKZ3Pw&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -5504,7 +5504,7 @@ export const products: Product[] = [
     name: "A290 8116 Y757 Stainless Slide Pin Holder Fanuc Edm Spare Parts",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jaV_VzhUVbZdPCvx841b6YNbfcPNAWkRWREX3Hnh0AJmsK2tKrBaNXM_EA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwTWpyhp9vsxCMTYeMkIcdfW8jHjUxkkAHV3nMqFCRtU-hus1atA71Fp9NCA&s",
     category: "Fanuc Edm Parts",
     featured: true
   },
@@ -5684,7 +5684,7 @@ export const products: Product[] = [
     name: "Edm Parts Precision Fanuc Edm A98L 0001 0347 S10 J O Ring A98L 0001 0347 S36 W",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRLi2BNeswKLvCOSKfA4sCV6qrQXy49p_JXf2vXW54zdcEfDTRu2EbZFz5ik&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8SZoWfCVZC7Ovfmh-ILM4v-4mn-2-bcK4J8U3nbTpeB3QwEIgUiQtMsULxg&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -5765,7 +5765,7 @@ export const products: Product[] = [
     name: "Precision Fanuc Lower Edm Tungsten Carbide Cylinder Shape A97L 0001 0664",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq4NlmbG6IhcKTa_0WPeNAcmXsWDj1Qnfuks9m555s1GlBIPkSlt_jLVuElA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIR4O_x9frL7EK_Xbe36MboSno3kJhM18S4V8JoDDNct-eS5sQKM6AFylecew&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -5819,7 +5819,7 @@ export const products: Product[] = [
     name: "A98L 0001 0938 1573 Clip For Fanuc Edm Spare Parts",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqohmYV_0eefnZAVXBCy1BV2P7MIDIY6NCzlVFjEbcZuYMTeEp5hbHrj6BCA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmLtVGdfgUJhAEvwZqj0TriyzSBX5m6IA_1gcUKjuly1jbuW0owLU3pKWeLc&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -6008,7 +6008,7 @@ export const products: Product[] = [
     name: "Durable Fanuc Edm Parts F491 Lower Seal Section V Packing D140Mm A98L 0001 0973",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqg6N6Eug6M48IGDRaW1Ja20Xo9_V2GtrAo2SdtENGw6b6Ekqeqt7sxV3vag&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtQsHFLHH3frq86bhCuRJqy84C3sRhm9qQxu-8q-rCV3fSGpRczWwck_GoE7k&s",
     category: "Fanuc Edm Parts",
     featured: false
   },
@@ -6161,7 +6161,7 @@ export const products: Product[] = [
     name: "104433400 0 25Mm Diamond Guide Set 104433440 104433450 135011603",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Q5s8WZvn35cBD4g17UvvSwSep4NM8-N2o0F08V2P5e-SM8RmrLWfILtatgg&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZbQWJfQ3Drz2MtzOtZVPxdKHwb88k2wLxyMe9ENs1ZdQ5x0Ae2v1s1ztmLg&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -6251,7 +6251,7 @@ export const products: Product[] = [
     name: "Agiecharmilles 200544151 544 151 Spacer Oil Seal For Parts 26 7 14Mm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9fKDh9Fnhz5UM53rYrBeNKIypPCbPDvfgKMTc8L67hg7M5CNYumPEmgl90A&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnVE3KJlChH1V1l0L7agfAaY2z8HOU3MOTGmMdJTEajCMqux4Q3mZJiaQXrj4&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -6314,7 +6314,7 @@ export const products: Product[] = [
     name: "130003360 C407 Flat Pinch Roller For 130 003 360 Pinch Roller Grooved",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsBSLWbCE9OFSm4CHnXTpebbXv-RFICJCceV0Bc6Zt0iQ027zCytdi0Rcj6g&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNheNJz_u380K9qZbikfnMN2D3zKyDHE1sBihAE30vK-QEAiuI6mCxM_Sww&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -6359,7 +6359,7 @@ export const products: Product[] = [
     name: "130003227 Crimp Gear Wheel Od36 Id12 T12Mm Fi 190 Fi 290 Fi 310 Fi 360 Fi 390",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOCHHX8FKmSp72KOVRXWUdEPk-36u7AGWo_X2AZOd-2BztAM9Zh8_V-zZKDQ&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToo8zcLnq8D8WCBDPXVAvTc13CyZAcc2qsfPujxxXD_SPaxECu8AhnhHfQ1w&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -6539,7 +6539,7 @@ export const products: Product[] = [
     name: "Counter Cutter 135018956 Teeth 135013556 6 Teeth 535002585 535010105 4Teeth",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFZSChFfmduf0nQumXeDX7MM85RM_lEBAAFm8z_9vrBXSX-I9UkcB6hYXb6Q&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIszd7VFm-krPwOh32_-ntdYGjuQNShQBJV2MHA7ovNpINlUmkEZFGO-xz-Q&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -6701,7 +6701,7 @@ export const products: Product[] = [
     name: "Spare Part 104325510 337014138 U Slot Contact For Edm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1lTAWNOHI71lVrg3-6ERfo9x1IoUOnArAkpr5FcUvvOTHK0e6kWURtIy9gM&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5KOmFtWUEPfT9mvtJYAbKlRyRT2fuGQ1HZIcuHZW48kcgbYG1jxIH9jPCOA&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -6989,7 +6989,7 @@ export const products: Product[] = [
     name: "Ceramic Counter Cutter Knife 100445990 Backing Blade 445 990 442 919",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEukhxp3KKIzzNPs6KehKMPJhawWklMt-SumxCy4uOkku9robfpDllVvn8Qs&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpodYtMxylBduFO57cwbAlcIXlDQxU37DEoOPaEcpyehZy3DrLbfHqngKKb84&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -7016,7 +7016,7 @@ export const products: Product[] = [
     name: "130010462 130005753 L2450Mm Cable130005860 L1280 Mm 204462210 L1050 204462170 L700",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0rzEk-XBrSI9Jb5z2021m10ZWj4Ed5WSNEq_ppo1ByC4TmxpkpxNZsgiyPw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwJ4tHgfj_Lgt5Z6BSI-x5bTtiWfxWh0EKExbichWIFpdpyXt9tHhK8-caKQ&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -7088,7 +7088,7 @@ export const products: Product[] = [
     name: "208514660 Sheet For Keyboard Membrana For Front Panel Fi310",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJDplsHQidk3oEWfQmFsC-5swMKqoXAVGRIgqmde85LCAKdmONrttHvytFe4Y&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_x6xFJrb1HVFo5UC9n_jP9lDXQOT8QJJwrXDEWAPy3qZOjVzivZgItCnyoc&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -7115,7 +7115,7 @@ export const products: Product[] = [
     name: "135013264 Injection Charmber Die Block For 135 013 264 D70Mm",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpbc5WqFpRMX8y4nnXlbTGT3Ltd9xVJkArgM-EsOoMY2aqUq43Ah-t8s9-ZA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7oFEYqWtWKoImJjsHiX-36vA-IxTyxWKyQlMZz8GrArhGLY4fS-RMzvaAgw&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -7160,7 +7160,7 @@ export const products: Product[] = [
     name: "135018201 135019248 Guide Assy 135 018 201 135 019 248",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT08Iq4VH0kunxydPgJuBOpTcXe4Q1n2CLg3lyKeST14nVQ8qD7-r8x4DnJsTM&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpidJxFuzjQwCofddlyzDO4bSgUpZ6xgksOC6HgJPwKKqv5KTd_7qu87pSOsk&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -7232,7 +7232,7 @@ export const products: Product[] = [
     name: "135000035 200431837 200630545 200431836 200431018 200431019 Blade Seal Charmilles",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwiMWEkK7QSQ5vDzZiFtm0YMuiFHUjUs4dZh58cXn6KI06UyG0ouO5DSfffY&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWSTNMNvp1ap_9f7g0DBnt7sgURqSfgh8vJaFEMq4TXKKrSqrL1lNOvjysAQ&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -7286,7 +7286,7 @@ export const products: Product[] = [
     name: "432 517 0 Distribution Unit Complete Durable Parts 104325170",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDd2JLKqW9B4D7y6a5h79_ayjZbEI2JOYocyYKM_XHSNPkERQRcRP2L65RTA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkM2wKKAUblbl2pjmRCjUBty6zE_ASSFcFI3VRuQOs4CkmlphfLYcUOZLesg&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -7331,7 +7331,7 @@ export const products: Product[] = [
     name: "104329700 432 970 0 100432904 Die Block Upper Injection Chamber",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ZplAlthHe_nP8bvCv2dqIez82fOG59kYCeipbkEkGq82QiVVAAZ9pPl6nFQ&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4ct3LVOJl_6IuFdeT2RnL9sDJ-Y8zKysv8HETgfaHfWURrJdN8u8tJPK8sw&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -7367,7 +7367,7 @@ export const products: Product[] = [
     name: "204462160 950Mm 135006123 1520Mm Cable 204344650 1450Mm Parts",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSXgP-wTK8iZsbyNXsHAQ6kjzSzDYCtxpOYaxQcVZQBT0-TjXhyPWVxTyfQ&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj6nHdsp_5Xd5S9ILuxA-OUIvILOzBkRIB7kRgmxU3M-htafamPs6m0uKUl_A&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -7439,7 +7439,7 @@ export const products: Product[] = [
     name: "327010046 Parts Ruby Rod 4 30Mm Agiecharmille Cut20 Cut30 327 010 046",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgmhmj7CnBvtpjz3ztIzZbNcYODqwWFut6OaxEXqmYvMj1fiz-3k3Nwbrcw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_UyQ8gqD3mbrs_s7pJJ8wmA5y5eCZuZ1sm2DjHy9aEWSVlUlL1fmkUi7zxBo&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -7448,7 +7448,7 @@ export const products: Product[] = [
     name: "Diaphragm Ring Sus 590173952 173 952 590173953 173 952 3 Agiecharmilles",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJuMl0hTMTx0YH46TyaJsXVeJ2diRnDF3_YAlTD4wmRFe0gJ4n8hSBullAmPE&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31y3XB66MOIlSUwtlknrnL_BsZdTfvCzofcHXe4NN2jGmJ6BEJFw39M7Oxg&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -7502,7 +7502,7 @@ export const products: Product[] = [
     name: "324011818 324 011 818 Flow Meter For Water Controler Valve",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuB9mOWBveMIpOBQfH3X0OSPj_CRF8qLao6qMz64LHfzD3TpTSdh2CGmSfw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxC-jnHFu8dwnHHEI0IMVTno8aO8RjuyJlT3XSu-T5H8rJDGy5WVAeN48cb4I&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -7547,7 +7547,7 @@ export const products: Product[] = [
     name: "204112290 4112290 Cover Complete For Part 130003916 130003286",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm43wQ8h0DuiKkcBZUOsO_m6q8GmiN2Csks7BrJQryAwAOBLq361WC2qQ62w&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXBoyTXJgyk57GeYjnUXBGXC8uFiAiakPWHjME3eOIxkaXHwSFzP3zB7JDSw&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -7745,7 +7745,7 @@ export const products: Product[] = [
     name: "419 594 7 590419594 Lower Suction Tube Agie Ac150 Ac170 Ac250 Ac270",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSll5vrXVnCplw1Y7A-0aM9aNcqwkN4UDFI_qIqQn0gmZZ2sRF6IHIPIw4yhg&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7ntCkOPMrzn9a_xDalAMxPiaDwwnOBvgFRv_k_QCLZ_LqeTDSmUcOPXJxQ&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -7979,7 +7979,7 @@ export const products: Product[] = [
     name: "206401090 640 109 0 200620055 Die Block Lower Injection Chamber Empty",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2G0X1nqEaii9MACgS_gKcTsblbpSiDdh23afwy8xgP91KZX0edKbbHGsloA&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGfx_d2eNtlNn3MHVanEQ3l-MjyxMzmz0p1j6LXwebFy-EhOmzNCgzjkeqlzs&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -8195,7 +8195,7 @@ export const products: Product[] = [
     name: "206410050 641 005 0 Guide Channel Charmilles Edm Spare Parts Edm Wire Guide",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqVK1jACDkObUBJ7_JnIROcfXiOnf2X42ZArHTQGR7rlgACUMLapd4Vftf9-s&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1uIhZRawUD_NPW-_ud-u6_-JgqvYDIPT9pNlefE6XGs3sHP3a4AXuIcIoClQ&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -8204,7 +8204,7 @@ export const products: Product[] = [
     name: "135009480 205432880 205432881 Barrel For Cutter Charmilles Edm Part 135009481",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmv4E4ydZB7k8FXb8GshqEcugcFJVmEdtXC7SVGnrrdT6JlE814w4A0rluk1Q&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB9LaUXd0CrETRRUuvF8VejCUUwFGTV8yA6DRD79w7mCoy6FWb1QEQYcKDDw&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -8339,7 +8339,7 @@ export const products: Product[] = [
     name: "130005464 200630798 Metal Nut Upper For Wire Guide Charmilles Fi 390 Fi 690",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbpqqlD7GZKKVPecp72qd9dHVgQRbRAi74BClEves58e9sIqbJfkvy4ynlgg&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCC9GcHhenv9_rRtYs76PwRDKwRiuaNXZ27yP0wnxMkfPe8yUM3M36wjhxA&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -8465,7 +8465,7 @@ export const products: Product[] = [
     name: "Lower Contact Sxpport Cover Feeder Holder 135011543 200641001 Charmilles 641 001",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFwd6jE61gZ9kqvnRalqYsl-vngUWxmDQX2WOKr8KgHl2i7n1LVoc6tTYwkw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRHHd7QOYTCgKctcyEnDRxJUm_uGiKKSYf3Fdf4lWU_1rT7CzmZyyvRqQmE_o&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -8510,7 +8510,7 @@ export const products: Product[] = [
     name: "200434475 434 475 5Mm Sapphire Holder Fpr Charmilles Robofil White Color",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKA6LahOmFKgu8ysINUF5p6ckfPLpv_c2oZPQurd8bxosNY05QholXHm5A1Bw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKr9_mY2xBGMxSBDN9IImcPS_E9HyRHEwDFgzRihHTrAhfLK5mecqc4akK_Q&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -8528,7 +8528,7 @@ export const products: Product[] = [
     name: "200447768 Charmilles Flat Conveyer Belt Edm For Motor Wire Drive 20X5250Mml",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj7Xzjt0gvm6ZaEABhFv-pq59bEYYZSCs2Ps27vY609SLtrWw_mcQQcNI6JEQ&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBEOD5zWNHxaz5Lu_MOaBOH8aG65YFyAyXxwrmgJQeA9cFz3B8cQoLAf7VKA&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -8537,7 +8537,7 @@ export const products: Product[] = [
     name: "O Ring 831957 Edm Repair Parts 832127 Charmilles 109410259 831797 601507",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcf1kVNQX1TOP0wv_zsD4l1W_2dOme_s8hYsz-5xsLra3j3KT1bg3_WBF9Hw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwFi9cCT9qAzUn1C-59i2GRmeM-yjKVb3QROdWZfn8wC2yKtiObouEJ9utwQ&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -8609,7 +8609,7 @@ export const products: Product[] = [
     name: "Shaft 52 5 12 135010086 Agiecharmilles Cut200 Edm Machine Parts 135 010 086",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXe4RUcVpg8JivLcU1mdUsMrYSEft5F3N9prloDLKQVrltK3eFFKmkBww2A&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8YSrb8ln7DeHxeGZ-8_qxNPKp91TN1kC7mLTfFkeX72Zoz2CHC247V1BAg&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -8744,7 +8744,7 @@ export const products: Product[] = [
     name: "104466590 Pulley Spool Drive Complete High Precision Charmilles Edm 446 659 0",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlwKAKkvcHoXkPA7mZDLwCVJbLZ1GuE0pnpFHH4h6jpCbVJG9VnM9BWynN3g&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLLOAlYS3miNJ55PZ5W1FbRdbRlW1PcyFq2n1llmlqh7mFIQSu2gkdsjC5aA&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -8861,7 +8861,7 @@ export const products: Product[] = [
     name: "135009544 200434544 Agie Charmilles Edm Parts Miniature Trough Wire Slot V Guide",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3YNGj9wxhfFi-kHP11ljMfjjf2nsAUqhr-PzeLvr3D3py7BuHpIWp-EGYg&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6NvX-3BHpi6c30GPGK3E4NjN-0pfiDbmimfyP8fwOlcZ05v_c2knvMe-2pg&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -8960,7 +8960,7 @@ export const products: Product[] = [
     name: "200641003 Ceramic Cam Lever Charmilles Edm Parts 200 641 003",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW9TrZgz64HtlFywXXmB3NCOAuo7UxCo4GvjI2n7bSkWd_IkfUrhuDtbKdmQ&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM2ddNN70rguiO7wHYlSm9fMNg__Z0cZ0H_zAg4piNRhfFJDYn3GeTfqTI58Q&s",
     category: "Charmilles Edm",
     featured: true
   },
@@ -9023,7 +9023,7 @@ export const products: Product[] = [
     name: "Golden 200443196 443 196 Charmilles Seals Edm Parts Robofil 1020",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzAIMXrfKtP4xQmEdVWeguc_WnMUJQuEbCn0infmGG05IbtvU8UcRYOAtQg&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qYqj_7CQqJxrs02fcUUnRNBQtqfGKyCUGUw-xCv3buN3ML84MKZswxzN&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -9113,7 +9113,7 @@ export const products: Product[] = [
     name: "Edm Parts Plastic Upper Injection Chamber Empty Die Block 204312150 200420569",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEelwPXZdCzdEp3xnvT2HCJK_y7NJkWRsxPV3IutA90A4iln0qXoj2-8_7rkw&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiGyvDN3fcc25NCUV1WzUTxn7VAyEG3qISFfLyMGUqkndHU-5jJzbQ32pktA&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -9266,7 +9266,7 @@ export const products: Product[] = [
     name: "100446275 Contact Pin Agie Charmilles Edm Parts Annealed Contact Sleeve",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SRdZkby-ZbfrRKicSN3h4jECrDMYe2Wve4-mUGziqMWjyC3lDrR8mSBURE4&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTi0TqJrIEwMj8YfEinn6JkMu7Hdh-1oqMChHzX-tejAu6_2aZAgsR5YV6b6o&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -9275,7 +9275,7 @@ export const products: Product[] = [
     name: "C677 Delrin Roller Complete Ceramic 204448190 Charmilles Spare Parts 28D",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS6RcXx7zXUuAJ4z4xuGxRROs8PziXps9k1QUgwJcgz2tLHjONC0VI0ftrkNo&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPh9dGwJb9dUe3Z1HAI8eDVZ2aKzMVL7EeOULWxd2owv4ou2l9nE8DAOat5Q&s",
     category: "Charmilles Edm",
     featured: false
   },
@@ -9428,7 +9428,7 @@ export const products: Product[] = [
     name: "200542663 Gear For Contact Roller Charmilles Geared Bush Accesories Edm Parts",
     description: "Placeholder description for product.",
     price: 0,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmv4E4ydZB7k8FXb8GshqEcugcFJVmEdtXC7SVGnrrdT6JlE814w4A0rluk1Q&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnZpaIgzAYknE9O-596-w1bys9y8qEieTqwlnRRzA3dXs11uRWAiE05hUhWQ&s",
     category: "Charmilles Edm",
     featured: false
   },
