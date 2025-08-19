@@ -1,11 +1,14 @@
 
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 
 const Works = () => {
+  const navigate = useNavigate();
+  
   const clientProjects = [
     {
       name: 'BrahMos Aerospace',
@@ -93,7 +96,13 @@ const Works = () => {
             <p className="text-xl mb-8 max-w-3xl mx-auto">
               We're ready to bring our expertise to your next manufacturing or service challenge.
             </p>
-            <Button className="bg-violet-700 hover:bg-violet-800 text-white px-8 py-3 text-lg">
+            <Button 
+              className="bg-violet-700 hover:bg-violet-800 text-white px-8 py-3 text-lg"
+              onClick={() => {
+                navigate('/contact');
+                window.scrollTo(0, 0);
+              }}
+            >
               Contact Us Today
             </Button>
             {/* TODO: If Contact Us button is not visible, check CSS display/z-index issues */}
