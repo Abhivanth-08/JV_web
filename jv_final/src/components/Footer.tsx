@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Mail, Phone, MapPin } from 'lucide-react';
@@ -7,7 +6,7 @@ const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white">
       <div className="container mx-auto px-4 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Company Info */}
           <div>
             <h3 className="text-xl font-semibold mb-4">J.V. Enterprises</h3>
@@ -48,43 +47,6 @@ const Footer = () => {
               <li>
                 <Link to="/contact" className="text-gray-300 hover:text-primary transition-colors" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
                   Contact
-                </Link>
-              </li>
-            </ul>
-          </div>
-          
-          {/* Services */}
-          <div>
-            <h3 className="text-xl font-semibold mb-4">Our Services</h3>
-            <ul className="space-y-2">
-              <li>
-                <Link to="/products?category=Manufacturing" className="text-gray-300 hover:text-primary transition-colors">
-                  Manufacturing Solutions
-                </Link>
-              </li>
-              <li>
-                <Link to="/products?category=Service" className="text-gray-300 hover:text-primary transition-colors">
-                  Equipment Service
-                </Link>
-              </li>
-              <li>
-                <Link to="/products?category=Spare Parts" className="text-gray-300 hover:text-primary transition-colors">
-                  Spare Parts
-                </Link>
-              </li>
-              <li>
-                <Link to="/products?category=Custom Solutions" className="text-gray-300 hover:text-primary transition-colors">
-                  Custom Solutions
-                </Link>
-              </li>
-              <li>
-                <Link to="/products?category=Maintenance" className="text-gray-300 hover:text-primary transition-colors">
-                  Maintenance Programs
-                </Link>
-              </li>
-              <li>
-                <Link to="/products?category=Consultancy" className="text-gray-300 hover:text-primary transition-colors">
-                  Engineering Consultancy
                 </Link>
               </li>
             </ul>
